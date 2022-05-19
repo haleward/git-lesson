@@ -1,2 +1,1 @@
-# git-lesson
-lesson one
+lesson two
